@@ -24,7 +24,7 @@ class SelectOrder extends StatelessWidget {
         style: TextStyle(
           fontWeight: FontWeight.w500,
           fontSize: 24,
-          color: Colors.white
+            color: Colors.white
         ),
         
         ),

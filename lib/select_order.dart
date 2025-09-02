@@ -26,7 +26,7 @@ class SelectOrder extends StatelessWidget {
           fontSize: 24,
             color: Colors.white
         ),
-        
+          
         ),
           Spacer(),
           Padding(
